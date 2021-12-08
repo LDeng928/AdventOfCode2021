@@ -2,4 +2,4 @@
 
 Solutions for Zero to Mastery's annual Advent of Code event.
 
-**Programming Language**: JavaScript
+**Programming Language**: JavaScript, Python
